@@ -1,5 +1,9 @@
-# 💫 About Me:
-👨‍💻I am a Systems and Computer Engineer in training<br>
+## 👋 Hello, I'm Cristian Barrera! Welcome to my GitHub Profile 💻
+
+I'm a Systems and Computer Engineering in training from **Universidad Nacional de Colombia** with a deep passion for programming, technology, and solving real-world problems through code. My GitHub is a reflection of my journey as a developer, where I constantly explore new tools, frameworks, and ideas to improve my skills and share my knowledge.
+
+# About Me:
+👨‍💻I Currently honing my skills in full-stack web development, focusing on React and Node.js. <br>
 👾I love taking on new challenges and solving problems through code<br>
 🎯My goal is to contribute to open-source projects and become an active member of the developer community.
 
@@ -8,8 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/cristian-camilo-barrera-rodríguez-988b93266) 
 
 
-# 💻 Tech Stack:
-
+# 💻 Language and Technologies I´ve used:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
