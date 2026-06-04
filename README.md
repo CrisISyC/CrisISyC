@@ -41,7 +41,7 @@ I'm a **Software Engineer** from **Universidad Nacional de Colombia** with hands
 ## 🚀 Featured Projects:
 ### [WalletFlow Backend API](https://github.com/CrisISyC/walletflow-backend)
 Personal finance management platform built with **Go**, **PostgreSQL**, and **Clean Architecture**. Features include authentication, transaction management, budgeting, and expense tracking with REST APIs and Docker containerization.
-### [Rick and Morty Explorer](https://rickandmorty-api-kydo.onrender.com/)
+### [Rick and Morty Explorer](https://rick-and-morty-explorer-phi.vercel.app/)
 Interactive **React/JavaScript** application consuming the Rick & Morty API with search functionality, filtering, pagination, and responsive design.
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=CrisISyC&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
